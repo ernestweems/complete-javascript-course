@@ -1,7 +1,8 @@
-# Forked and linked upstream to orginal repo to keep changes from it in sync.
-## master point to origin.
-
 ## Course Material and FAQ for my Complete JavaScript Course
+
+**Note**:Forked and linked upstream to orginal repo to keep changes from it in sync.
+
+
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
